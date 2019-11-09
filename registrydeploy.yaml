@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: sit-bmw-model
-          image: dongf9527/sba-registry:v2
+          image: dongf9527/sba-registry:v3
           ports:
             - name: http-port
               containerPort: 10001
